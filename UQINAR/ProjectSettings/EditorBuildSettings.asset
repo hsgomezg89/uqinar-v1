@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 3e7ab37825d2e254190fefee2e0c793f
+  - enabled: 1
+    path: Assets/Scenes/Ingenieria.unity
+    guid: 184ec11d82b53964aba6c74c37d9b125
+  - enabled: 1
+    path: Assets/Scenes/MenuRutas.unity
+    guid: a143f5561d0a2244a9b916e6cb3322dc
+  - enabled: 1
+    path: Assets/Scenes/SustLab.unity
+    guid: 33f49e8700cff58499902f32254ba666
+  - enabled: 1
+    path: Assets/Scenes/MenuLogin.unity
+    guid: 7d25403bc8463bc488adfafee06d8a7b
+  - enabled: 1
+    path: Assets/Scenes/MenuRegistro.unity
+    guid: ffacd2f4001af304a8b47c9f4036bb53
+  - enabled: 1
+    path: Assets/Scenes/biblioteca.unity
+    guid: df212839dba42fc48a82f914a5152d0e
+  - enabled: 1
+    path: Assets/Scenes/50anios.unity
+    guid: 74ff3de5131400a43b2bc6c424a4594d
+  - enabled: 1
+    path: Assets/Scenes/admina1.unity
+    guid: 5e0dac697830a1e4ea090b1a4087650c
+  - enabled: 1
+    path: Assets/Scenes/admina2.unity
+    guid: 3c728016d5056404f9c1ba551ea8a06a
+  - enabled: 1
+    path: Assets/Scenes/auditorio.unity
+    guid: 6e3af3f0e82ff634aba749fabdb2291a
+  - enabled: 1
+    path: Assets/Scenes/bienestar.unity
+    guid: b2f81f2bfcb781c4fa7e88d674dba97f
+  - enabled: 1
+    path: Assets/Scenes/biomedica.unity
+    guid: c6cf5006662db1e41861f6dd72fe36c6
+  - enabled: 1
+    path: Assets/Scenes/canchas.unity
+    guid: 4f81a560a2f14b748996beea0804a070
+  - enabled: 1
+    path: Assets/Scenes/ciencias_basicas.unity
+    guid: 3f1fa71461ba65841836e094dae98556
+  - enabled: 1
+    path: Assets/Scenes/coliseo.unity
+    guid: d65a3e87f8e2c0c4d9232f97ec168fdb
+  - enabled: 1
+    path: Assets/Scenes/economicas.unity
+    guid: 523161024a9b97642a5ea9edb95a5653
+  - enabled: 1
+    path: Assets/Scenes/educacion.unity
+    guid: 4e06b54ca26abc043991a13cdb4806fc
+  - enabled: 1
+    path: Assets/Scenes/medicina.unity
+    guid: b75b2f6cc01900a4c875b74051b79ab5
+  - enabled: 1
+    path: Assets/Scenes/planta_piloto.unity
+    guid: 62cb1d82cbaa024449b16b5f259e2ccc
+  m_configObjects: {}
